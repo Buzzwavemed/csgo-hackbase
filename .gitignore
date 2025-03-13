@@ -1,0 +1,78 @@
+# Build directories
+build/
+bin/
+lib/
+out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+!CMakeLists.txt
+Makefile
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.VC.db
+ipch/
+.vspscc
+*.vcxproj
+*.vcxproj.filters
+*.vcproj
+*.sln
+*.vcxproj.user
+*.dbmdl
+
+# VS Code files
+.vscode/
+.history/
+*.code-workspace
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
